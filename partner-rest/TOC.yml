@@ -1,0 +1,45 @@
+- name: Dokumentace pro vývojáře partnerů
+  href: index.yml
+  items:
+    - name: Přehledy a scénáře
+      href: develop/index.md
+      items:
+        - name: Začínáme
+          href: develop/get-started.md
+          items:
+            - name: Ověřování rozhraní Partner API
+              href: develop/api-authentication.md
+        - name: Scénáře
+          href: develop/scenarios.md
+          items:
+            - name: Reference
+              href: develop/referrals.md
+              items:
+                - name: Získání seznamu potenciálních zákazníků a příležitostí
+                  href: develop/get-a-list-of-referrals.md
+                - name: Získání potencionálního zákazníka nebo příležitosti podle ID
+                  href: develop/get-a-referral-by-id.md
+                - name: Aktualizace potenciálního zákazníka nebo příležitosti
+                  href: develop/patch-a-referral.md
+                - name: Vytvoření nové příležitosti
+                  href: develop/create-a-referral.md
+                - name: Zdroje informací o referenčních seznamech
+                  href: develop/referral-resources.md
+            - name: Ceny
+              href: develop/pricing.md
+              items:
+                - name: Získání ceníku
+                  href: develop/get-a-price-sheet.md
+                - name: Získání směnných kurzů
+                  href: develop/get-foreign-exchange-rates.md
+    - name: REST API – referenční informace
+      href: develop/rest-api-reference.md
+      items:
+        - name: Adresy URL koncového bodu REST
+          href: develop/rest-urls.md
+        - name: Hlavičky REST
+          href: develop/headers.md
+        - name: Kódy chyb REST
+          href: develop/error-codes.md
+        - name: Prostředky REST
+          href: develop/rest-resources.md
