@@ -1,0 +1,37 @@
+### YamlMime:Landing
+title: Rozhraní Microsoft Partner REST API
+summary: Microsoft Partner REST API je následníkem rozhraní Microsoft Partner Center API. Toto rozhraní API umožňuje programově přistupovat k funkcím Partnerského centra.
+metadata:
+  title: Dokumentace k Partnerskému centru pro vývojáře
+  description: Microsoft Partner REST API je následníkem rozhraní Microsoft Partner Center API. Toto rozhraní API umožňuje programově přistupovat k funkcím Partnerského centra.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-sdk
+  ms.topic: landing-page
+  author: jasonwhowell
+  ms.author: jasonh
+  ms.date: 04/09/2020
+  ms.openlocfilehash: 163c778485f25318e1263a2064ded44fe617f8af
+  ms.sourcegitcommit: 3c165938f544ff226cbe11ca21ed5aa00448d9b4
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 04/23/2020
+  ms.locfileid: "97766472"
+landingContent:
+- title: Dokumentace a zdroje informací k rozhraní Microsoft Partner API
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: Začínáme s rozhraním Partner REST API
+      url: develop/get-started.md
+    - text: Scénáře podporované rozhraním Partner REST API
+      url: develop/scenarios.md
+  - linkListType: reference
+    links:
+    - text: Rozhraní Partner REST API
+      url: develop/rest-api-reference.md
+  - linkListType: how-to-guide
+    links:
+    - text: Programová správa referenčních seznamů
+      url: develop/referrals.md
+    - text: Programové načtení cen CSP
+      url: develop/pricing.md
