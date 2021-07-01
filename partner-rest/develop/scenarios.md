@@ -5,12 +5,12 @@ ms.date: 05/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-sdk
 ms.localizationpriority: medium
-ms.openlocfilehash: e8fc3f8f019a9612cfc94b755252c9fac143ffcb
-ms.sourcegitcommit: 3c165938f544ff226cbe11ca21ed5aa00448d9b4
+ms.openlocfilehash: 4703da7cae20e34e03c79f8f91387dff48206bff
+ms.sourcegitcommit: 9e64d6358ef4e1ac2d3e0d36cd63490a5f760b38
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "97770317"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113125606"
 ---
 # <a name="scenarios-supported-by-the-partner-rest-api"></a>Scénáře podporované rozhraním Partner REST API
 
@@ -21,6 +21,7 @@ Partner společnosti Microsoft REST API podporuje následující programové sc�
 * [Získání seznamu referencí](get-a-list-of-referrals.md)
 * [Získání reference podle ID](get-a-referral-by-id.md)
 * [Získání ceníku](get-a-price-sheet.md)
+* [Získání matice nabídky](get-an-offer-matrix.md)
 * [Získání směnných kurzů](get-foreign-exchange-rates.md)
 
 ## <a name="completing-the-scenarios"></a>Dokončení scénářů
