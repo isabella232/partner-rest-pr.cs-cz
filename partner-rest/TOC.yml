@@ -30,6 +30,8 @@
               items:
                 - name: Získání ceníku
                   href: develop/get-a-price-sheet.md
+                - name: Získání matice nabídky
+                  href: develop/get-an-offer-matrix.md
                 - name: Získání směnných kurzů
                   href: develop/get-foreign-exchange-rates.md
     - name: REST API – referenční informace
